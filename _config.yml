@@ -19,7 +19,7 @@ title: vu1n # the main title
 tagline: An information security blog # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
-  An information security blog where I post the findings and some CTF challanges.
+  An information security blog where I post about vulnerabilities and solution of CTF challanges.
 
 # Fill in the protocol & hostname for your site.
 # e.g. 'https://username.github.io', note that it does not end with a '/'.
