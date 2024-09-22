@@ -16,7 +16,7 @@ timezone:
 
 title: vu1n # the main title
 
-tagline: An information security blog # it will display as the sub-title
+tagline: An information security blog where I post about vulnerabilities and solution of CTF challanges. # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
   An information security blog where I post about vulnerabilities and solution of CTF challanges.
@@ -34,7 +34,7 @@ twitter:
 social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
-  name: _vu1n
+  name: 0xvu1n
   email: example@domain.com # change to your email address
   links:
     # The first element serves as the copyright owner's link
