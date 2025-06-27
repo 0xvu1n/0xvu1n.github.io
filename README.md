@@ -3,4 +3,4 @@
 ![Gem Version](https://img.shields.io/gem/v/jekyll-theme-chirpy)&nbsp;
 ![GitHub license](https://img.shields.io/github/license/cotes2020/chirpy-starter.svg?color=blue)&nbsp;
 
-<img src="https://tryhackme-badges.s3.amazonaws.com/vu1n.png" alt="TryHackMe">
+<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=2339487" style='border:none;'></iframe>
