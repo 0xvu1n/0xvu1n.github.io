@@ -58,4 +58,4 @@ Complete the submission form by providing all required details:
 3. XML report
 4. Contact information
 
-Finally, click Submit to exploit the CSRF. Repeat the process for every CSRF and you'll get the CSRF Master badge after reporting 30+ CSRF.
+Finally, click Submit to exploit the CSRF. Repeat the process for every CSRF and you'll get the CSRF Master badge after submitting 30+ reports.
