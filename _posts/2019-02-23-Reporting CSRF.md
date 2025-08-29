@@ -17,9 +17,11 @@ The cheat sheet by @alexlauerman was particularly helpful in understanding the d
 
 ![CSRFMap](https://cdn-images-1.medium.com/max/800/1*2y6UAWdH77QzCt9TuXevZQ.png)
 
-Vulnerability: CSRF/XSRF (Cross-Site Request Forgery)
-Severity: Critical
-OWASP rank: OTG-SESS-005
+**Vulnerability:** CSRF/XSRF (Cross-Site Request Forgery)
+
+**Severity:** Critical
+
+**OWASP rank:** OTG-SESS-005
 
 As part of the scenario, our initial task on the platform is to generate a properly structured XML report containing three valid requests. The first request must be the vulnerable POST request (as shown below).
 
@@ -53,9 +55,9 @@ In Burp, select all three relevant requests, add comments as instructed, and exp
 Complete the submission form by providing all required details:
 
 
-1. Vulnerable link
+**1. Vulnerable link
 2. Screenshots
 3. XML report
-4. Contact information
+4. Contact information**
 
 Finally, click Submit to exploit the CSRF. Repeat the process for every CSRF and you'll get the CSRF Master badge after submitting 30+ reports.
