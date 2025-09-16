@@ -55,7 +55,6 @@ In Burp, select all three relevant requests, add comments as instructed, and exp
 Complete the submission form by providing all required details:
 
 
-**1. Vulnerable link
 2. Screenshots
 3. XML report
 4. Contact information**
