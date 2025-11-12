@@ -2,6 +2,9 @@
 title: Reporting CSRF
 description: Guide to report CSRF vulnerability on openbugbounty platform to get CSRF master badge.
 date: 2019-02-23
+image: 
+    path: /assets/csrf.png
+    alt: "CSRF Master"
 author: vu1n
 layout: post
 categories: [Vulnerabilities]
