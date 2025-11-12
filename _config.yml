@@ -43,6 +43,10 @@ social:
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
     # - https://www.linkedin.com/in/username
+post:
+  image:
+    show_on_post: true      # show image in post
+    show_on_home: true      # show on homepage list
 
 # Site Verification Settings
 webmaster_verifications:
