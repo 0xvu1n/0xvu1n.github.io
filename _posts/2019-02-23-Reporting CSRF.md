@@ -11,8 +11,6 @@ categories: [Vulnerabilities]
 tags: [csrf, owasp, Vulnerability]
 ---
 
-<center><img width="124" height="220" alt="image" src="https://github.com/user-attachments/assets/3c1e73db-ebf4-47f3-ab2a-fbbe5998b90b" /></center>
-
 The website is vulnerable to CSRF due to the absence of Anti-CSRF tokens. However, the main focus of this post is how to submit a proper CSRF report via OBB. 
 Initially, OBB could not reproduce many CSRF reports, which often led to them being rejected or categorized as “Can’t reproduce”. This guide was created to address that issue.
 Beyond just earning bounties, this guide highlights the key points to keep in mind when crafting a clear and detailed CSRF report.
