@@ -7,7 +7,7 @@ image:
   alt: "Recruit"
 author: vu1n
 layout: post
-categories: [Vulnerabilities]
+categories: [Tryhackme]
 tags: [Tryhackme, sqli, ctf]
 ---
 
