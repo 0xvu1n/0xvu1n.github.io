@@ -1,4 +1,4 @@
-<img width="1919" height="605" alt="image" src="https://github.com/user-attachments/assets/dbe7774c-d399-4b52-968a-e54d39ce0edc" />---
+---
 title: "Tryhackme: Operation promotion Writeup"
 description: "One engagement stands between you and your next title."
 date: 2026-06-06
