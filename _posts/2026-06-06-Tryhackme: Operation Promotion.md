@@ -3,7 +3,7 @@ title: "Tryhackme: Operation promotion Writeup"
 description: "One engagement stands between you and your next title."
 date: 2026-06-06
 image:
-  path: /assets/op.png
+  <img src="/assets/op.png" alt="Operation promotion" width="500" height="300">
   alt: "Operation promotion"
 author: vu1n
 layout: post
