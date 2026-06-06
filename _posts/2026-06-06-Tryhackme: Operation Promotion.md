@@ -3,7 +3,7 @@ title: "Tryhackme: Operation promotion Writeup"
 description: "One engagement stands between you and your next title."
 date: 2026-06-06
 image:
-  <img src="/assets/op.png" alt="Operation promotion" width="500" height="300">
+  path: /assets/op.png
   alt: "Operation promotion"
 author: vu1n
 layout: post
@@ -68,7 +68,7 @@ Visiting http://recruitcorp.thm/admin, there is not much in source; we see login
 ```
 admin@recruitcorp.thm' OR '1'='1
 ```
-![Bypass](https://raw.githubusercontent.com/0xvu1n/0xvu1n.github.io/refs/heads/main/assets/bypass.png))
+![Bypass](https://raw.githubusercontent.com/0xvu1n/0xvu1n.github.io/refs/heads/main/assets/bypass.png)
 
 ## 2. Exploitation
 
