@@ -3,7 +3,7 @@ title: "Tryhackme: Over the Jackpot CTF"
 description: "THM Defcon CTF Event - Lost fortune included"
 date: 2026-08-09
 image:
-  path: /assets/jackpot.jpg
+  path: /assets/jackpotlogo.png
   alt: "OvertheJackpot"
 author: vu1n
 layout: post
